@@ -1,0 +1,15 @@
+PODS:
+  - SCLAlertView (0.7.0)
+  - SwiftyButton (0.6.0)
+
+DEPENDENCIES:
+  - SCLAlertView
+  - SwiftyButton
+
+SPEC CHECKSUMS:
+  SCLAlertView: 8a14ffc40590c619e183eed2298b854385f30be1
+  SwiftyButton: 4c9b61c499f172971a1b8c2eebbbdc20a26d8a08
+
+PODFILE CHECKSUM: b90a13f14ede51568caa10259784c7149469e7f3
+
+COCOAPODS: 1.2.1

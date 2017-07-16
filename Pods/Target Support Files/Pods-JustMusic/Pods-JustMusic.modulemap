@@ -1,0 +1,6 @@
+framework module Pods_JustMusic {
+  umbrella header "Pods-JustMusic-umbrella.h"
+
+  export *
+  module * { export * }
+}

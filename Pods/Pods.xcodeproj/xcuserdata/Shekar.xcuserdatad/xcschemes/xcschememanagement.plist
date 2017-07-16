@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-JustMusic.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-JustMusicTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-JustMusicUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SCLAlertView.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SwiftyButton.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>5FD7AFE6E3A38071B29057F42CE6B79A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A510AD0417A3D355CD980B8CC7F37925</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D59DB5C7F9CDFE490093DD2C269ACD8D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D69E8B19F3F0AB52E5FBE4ECF3811C03</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F7F83EDD5B945941D277C05037A19507</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
